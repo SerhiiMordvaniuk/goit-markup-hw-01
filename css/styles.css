@@ -1,7 +1,7 @@
-h1 {
-    color: rgb(0, 3, 3);
+.heading {
+    background-color: #2E2F42;
 }
-
-p {
-    color:rgb(0, 3, 3);
+.button {
+    color: #ffffff;
+    background-color: #4D5AE5;
 }
